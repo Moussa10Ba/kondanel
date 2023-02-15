@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559772578617",
+    "project_id": "v1kondanel",
+    "storage_bucket": "v1kondanel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559772578617:android:932387a75dbdd8d3456ee8",
+        "android_client_info": {
+          "package_name": "com.example.kondanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559772578617-klidu5a59j103o0bgtdoem7lpcljocvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8bMlW4dZaAmok9KxCyg7Y6AsML688YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559772578617-klidu5a59j103o0bgtdoem7lpcljocvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
